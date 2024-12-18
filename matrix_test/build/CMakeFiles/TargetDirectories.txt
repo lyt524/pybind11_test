@@ -1,0 +1,6 @@
+/home/plusai/matrix_test/build/CMakeFiles/MatrixExampleTest.dir
+/home/plusai/matrix_test/build/CMakeFiles/MatrixExample.dir
+/home/plusai/matrix_test/build/CMakeFiles/edit_cache.dir
+/home/plusai/matrix_test/build/CMakeFiles/rebuild_cache.dir
+/home/plusai/matrix_test/build/extern/pybind11/CMakeFiles/edit_cache.dir
+/home/plusai/matrix_test/build/extern/pybind11/CMakeFiles/rebuild_cache.dir
