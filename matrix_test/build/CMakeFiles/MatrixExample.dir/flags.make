@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DMatrixExample_EXPORTS
 
-CXX_INCLUDES = -isystem /home/plusai/matrix_test/extern/pybind11/include -isystem /usr/include/python3.10
+CXX_INCLUDES = -isystem /home/plusai/pybind11_test_02/pybind11_test/matrix_test/extern/pybind11/include -isystem /usr/include/python3.10
 
 CXX_FLAGS = -O3 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects
 

@@ -1,6 +1,6 @@
 # pybind11_test
 
-**The extern folder in both add_test and matrix_test needs to delete the original pybind11 folder and perform the operation:**
+**The extern folder in both add_test and matrix_test needs to delete the original pybind11 folder and perform the operation in extern folder:**
 
 ```bash
 git clone https://github.com/pybind/pybind11.git

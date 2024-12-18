@@ -1,4 +1,4 @@
-# Install script for directory: /home/plusai/matrix_test
+# Install script for directory: /home/plusai/pybind11_test_02/pybind11_test/matrix_test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/plusai/matrix_test/build/extern/pybind11/cmake_install.cmake")
+  include("/home/plusai/pybind11_test_02/pybind11_test/matrix_test/build/extern/pybind11/cmake_install.cmake")
 
 endif()
 
@@ -56,5 +56,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/plusai/matrix_test/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/plusai/pybind11_test_02/pybind11_test/matrix_test/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
