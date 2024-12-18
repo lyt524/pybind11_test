@@ -1,12 +1,12 @@
 # pybind11_test
 
-** The extern folder in both add_test and matrix_test needs to delete the original pybind11 folder and perform the operation: **
+**The extern folder in both add_test and matrix_test needs to delete the original pybind11 folder and perform the operation:**
 
-'''bash
+```bash
 git clone https://github.com/pybind/pybind11.git
-'''
+```
 
-** The configuration in the CMakeLists.txt file needs to be updated to reflect the Python path of your own system. **
+**The configuration in the CMakeLists.txt file needs to be updated to reflect the Python path of your own system.**
 
 
 ```
