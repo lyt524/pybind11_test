@@ -26,3 +26,19 @@ Get Python include directory path:
 python3 -c "from sysconfig import get_paths; print(get_paths()['include'])"
 
 ```
+
+**clear floder build**
+
+```
+rm -rf *
+```
+
+**Reconfigure CMake and Rebuild the project (Inside the build folder)**
+
+```
+cmake ..
+
+make
+```
+
+
